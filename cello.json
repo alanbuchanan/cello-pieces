@@ -103,8 +103,8 @@
   },
   {
     "composer": "Eccles",
-    "piece": "",
-    "publisher": "Sonata in G minor",
+    "piece": "Sonata in G minor",
+    "publisher": "",
     "difficulties": [
       7,
       8
@@ -363,7 +363,7 @@
   },
   {
     "composer": "Blainville",
-    "piece": "Sonate Ancienne in D minor, Op. 38???",
+    "piece": "Sonate Ancienne in D minor, Op. 38",
     "publisher": "Augener",
     "difficulties": [
       10
@@ -435,8 +435,8 @@
   },
   {
     "composer": "Grieg",
-    "piece": "",
-    "publisher": "Sonata in A minor, Op. 36?",
+    "piece": "Sonata in A minor, Op. 36",
+    "publisher": "",
     "difficulties": [
       10
     ],
@@ -543,7 +543,7 @@
   },
   {
     "composer": "Britten",
-    "piece": "Sonata in C major? , Op. 65",
+    "piece": "Sonata in C major, Op. 65",
     "publisher": "Boosey",
     "difficulties": [
       11
@@ -632,7 +632,7 @@
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Shostakovitch",
+    "composer": "Shostakovich",
     "piece": "Sonata, Op. 40",
     "publisher": "International",
     "difficulties": [
@@ -723,8 +723,8 @@
   },
   {
     "composer": "Kurka",
-    "piece": "",
-    "publisher": "Sonatina, Op. 21",
+    "piece": "Sonatina, Op. 21",
+    "publisher": "",
     "difficulties": [
       12
     ],
@@ -982,9 +982,9 @@
     "category": "Unaccompanied Cello Solos"
   },
   {
-    "composer": "Gerschefski, Edwin The Mountain",
-    "piece": "ACA",
-    "publisher": "",
+    "composer": "Gerschefski, Edwin",
+    "piece": "The Mountain",
+    "publisher": "ACA",
     "difficulties": [
       9
     ],
@@ -1073,8 +1073,8 @@
   },
   {
     "composer": "Reger",
-    "piece": "",
-    "publisher": "Suite No. 2, Op. 131c",
+    "piece": "Suite No. 2, Op. 131c",
+    "publisher": "",
     "difficulties": [
       11
     ],
@@ -1165,15 +1165,6 @@
     "composer": "Penderecki",
     "piece": "Capriccio per Siegrfried Palm for Solo Cello",
     "publisher": "Schott",
-    "difficulties": [
-      12
-    ],
-    "category": "Unaccompanied Cello Solos"
-  },
-  {
-    "composer": "",
-    "piece": "",
-    "publisher": "",
     "difficulties": [
       12
     ],
@@ -1283,8 +1274,8 @@
   },
   {
     "composer": "Eccles",
-    "piece": "",
-    "publisher": "Sonata in G minor",
+    "piece": "Sonata in G minor",
+    "publisher": "",
     "difficulties": [
       7,
       8
@@ -1543,7 +1534,7 @@
   },
   {
     "composer": "Blainville",
-    "piece": "Sonate Ancienne in D minor, Op. 38???",
+    "piece": "Sonate Ancienne in D minor, Op. 38",
     "publisher": "Augener",
     "difficulties": [
       10
@@ -1615,8 +1606,8 @@
   },
   {
     "composer": "Grieg",
-    "piece": "",
-    "publisher": "Sonata in A minor, Op. 36?",
+    "piece": "Sonata in A minor, Op. 36",
+    "publisher": "",
     "difficulties": [
       10
     ],
@@ -1723,7 +1714,7 @@
   },
   {
     "composer": "Britten",
-    "piece": "Sonata in C major? , Op. 65",
+    "piece": "Sonata in C major, Op. 65",
     "publisher": "Boosey",
     "difficulties": [
       11
@@ -1812,7 +1803,7 @@
     "category": "Cello Sonatas"
   },
   {
-    "composer": "Shostakovitch",
+    "composer": "Shostakovich",
     "piece": "Sonata, Op. 40",
     "publisher": "International",
     "difficulties": [
@@ -1903,8 +1894,8 @@
   },
   {
     "composer": "Kurka",
-    "piece": "",
-    "publisher": "Sonatina, Op. 21",
+    "piece": "Sonatina, Op. 21",
+    "publisher": "",
     "difficulties": [
       12
     ],
@@ -1977,15 +1968,6 @@
     "composer": "Wernick, Richard",
     "piece": "Sonata (Portraits of Antiquity)",
     "publisher": "Presser",
-    "difficulties": [
-      12
-    ],
-    "category": "Cello Sonatas"
-  },
-  {
-    "composer": "",
-    "piece": "",
-    "publisher": "",
     "difficulties": [
       12
     ],
@@ -2284,7 +2266,7 @@
   {
     "composer": "Popper",
     "piece": "Hungarian Rhapsody, Op. 68 w",
-    "publisher": "orch?",
+    "publisher": "orch",
     "difficulties": [
       10
     ],
@@ -2309,7 +2291,7 @@
     "category": "Concertos and Solos with Orchestra"
   },
   {
-    "composer": "Saint Saens",
+    "composer": "Saint-Saens",
     "piece": "Concerto No. 1 in A minor, Op. 33",
     "publisher": "International",
     "difficulties": [
@@ -2419,7 +2401,7 @@
   {
     "composer": "Saint Saens",
     "piece": "Concerto #2 in D minor, Op. 119",
-    "publisher": "Belwin Mills?",
+    "publisher": "Belwin Mills",
     "difficulties": [
       11
     ],
@@ -2606,7 +2588,7 @@
     "category": "Concertos and Solos with Orchestra"
   },
   {
-    "composer": "Prokovieff",
+    "composer": "Prokofiev",
     "piece": "Symphonie Concertante, Op 125",
     "publisher": "International",
     "difficulties": [
@@ -2618,15 +2600,6 @@
     "composer": "Shostakovich",
     "piece": "Concerto No. 2, Op 126",
     "publisher": "Inter.",
-    "difficulties": [
-      13
-    ],
-    "category": "Concertos and Solos with Orchestra"
-  },
-  {
-    "composer": "",
-    "piece": "",
-    "publisher": "",
     "difficulties": [
       13
     ],
@@ -2765,7 +2738,7 @@
   {
     "composer": "Squire",
     "piece": "Cradle Song",
-    "publisher": "Elkan-Vogel?",
+    "publisher": "Elkan-Vogel",
     "difficulties": [
       1,
       2
@@ -2803,9 +2776,9 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "7. May Song -- 14. Etude",
-    "piece": "{Suzuki vol1}",
-    "publisher": "",
+    "composer": "Suzuki ed.",
+    "piece": "7. May Song -- 14. Etude",
+    "publisher": "{Suzuki vol1}",
     "difficulties": [
       1,
       2
@@ -2913,9 +2886,9 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "1. Long, Long Ago, 2. The Happy Farmer",
-    "piece": "{Suzuki vol 2}",
-    "publisher": "",
+    "composer": "Suzuki ed.",
+    "piece": "1. Long, Long Ago, 2. The Happy Farmer",
+    "publisher": "{Suzuki vol 2}",
     "difficulties": [
       3,
       4
@@ -2923,9 +2896,9 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "3. Minuet No.1 -- 12. Bourree",
-    "piece": "{Suzuki vol 2}",
-    "publisher": "",
+    "composer": "Suzuki ed.",
+    "piece": "3. Minuet No.1 -- 12. Bourree",
+    "publisher": "{Suzuki vol 2}",
     "difficulties": [
       3,
       4
@@ -2974,8 +2947,8 @@
   },
   {
     "composer": "Cui",
-    "piece": "",
-    "publisher": "Orientale",
+    "piece": "Orientale",
+    "publisher": "",
     "difficulties": [
       5,
       6
@@ -3113,9 +3086,9 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "5. Minuet in G --10. Allegro Moderato",
-    "piece": "{Suzuki vol 3}",
-    "publisher": "",
+    "composer": "Suzuki ed.",
+    "piece": "5. Minuet in G --10. Allegro Moderato",
+    "publisher": "{Suzuki vol 3}",
     "difficulties": [
       5,
       6
@@ -3133,7 +3106,7 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "?Bach",
+    "composer": "Bach, J.S.",
     "piece": "Air from Suite #3",
     "publisher": "International",
     "difficulties": [
@@ -3142,7 +3115,7 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Bach",
+    "composer": "Bach, J.S.",
     "piece": "Arioso, from Cantata No. 156",
     "publisher": "{Collier}",
     "difficulties": [
@@ -3151,7 +3124,7 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Bach",
+    "composer": "Bach, J.S.",
     "piece": "Adagio (Toccata in C major) (Siloti-Casals)",
     "publisher": "Fischer",
     "difficulties": [
@@ -3170,7 +3143,7 @@
   },
   {
     "composer": "Bloch",
-    "piece": "Meditation Hebraique?",
+    "piece": "Meditation Hebraique",
     "publisher": "Fischer",
     "difficulties": [
       7
@@ -3296,7 +3269,7 @@
   },
   {
     "composer": "Golterman",
-    "piece": "? Etude: Appasionatto",
+    "piece": "Etude: Appasionatto",
     "publisher": "International",
     "difficulties": [
       7
@@ -3323,8 +3296,8 @@
   },
   {
     "composer": "Bloch",
-    "piece": "",
-    "publisher": "Supplication (From Jewish Life) No. 3",
+    "piece": "Supplication (From Jewish Life) No. 3",
+    "publisher": "",
     "difficulties": [
       8
     ],
@@ -3439,16 +3412,16 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Vaughan Williams Six Studies in English Folk-Song",
-    "piece": "Stainer & Bell",
-    "publisher": "Oxford",
+    "composer": "Vaughan Williams",
+    "piece": "Six Studies in English Folk-Song",
+    "publisher": "Stainer & Bell",
     "difficulties": [
       8
     ],
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Bach",
+    "composer": "Bach, J.S.",
     "piece": "Six Chorales [Fournier]",
     "publisher": "International",
     "difficulties": [
@@ -3602,7 +3575,7 @@
   },
   {
     "composer": "Stutschewsky, J.",
-    "piece": "Little Cellist?",
+    "piece": "The Little Cellist",
     "publisher": "Israeli",
     "difficulties": [
       9
@@ -3628,7 +3601,7 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Webern, A.",
+    "composer": "Webern",
     "piece": "Two Pieces",
     "publisher": "Fischer",
     "difficulties": [
@@ -3718,25 +3691,25 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Gerschefski, Edwin Black-haired Woman?",
-    "piece": "ACA",
-    "publisher": "",
+    "composer": "Gerschefski, Edwin",
+    "piece": "Black-haired Woman",
+    "publisher": "ACA",
     "difficulties": [
       10
     ],
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Frescobaldi-CassadoToccata",
-    "piece": "Universal",
-    "publisher": "",
+    "composer": "Cassado",
+    "piece": "Toccata in the Style of Frescobaldi",
+    "publisher": "Universal",
     "difficulties": [
       10
     ],
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Haydn, Joseph",
+    "composer": "Haydn",
     "piece": "Divertimento in D",
     "publisher": "Elkan-V",
     "difficulties": [
@@ -4006,9 +3979,9 @@
     "category": "Show Pieces and Shorter Compositions"
   },
   {
-    "composer": "Davidovsky, Mario Synchronisms No. 3 for Cello and Electronic Sound",
-    "piece": "McGinnis & Marx",
-    "publisher": "",
+    "composer": "Davidovsky, Mario",
+    "piece": "Synchronisms No. 3 for Cello and Electronic Sound",
+    "publisher": "McGinnis & Marx",
     "difficulties": [
       12
     ],
@@ -4045,15 +4018,6 @@
     "composer": "Rorem, Ned",
     "piece": "Three Slow Pieces",
     "publisher": "Boosey",
-    "difficulties": [
-      12
-    ],
-    "category": "Show Pieces and Shorter Compositions"
-  },
-  {
-    "composer": "",
-    "piece": "",
-    "publisher": "",
     "difficulties": [
       12
     ],
@@ -4159,15 +4123,6 @@
     "category": "Popular Styles"
   },
   {
-    "composer": "",
-    "piece": "",
-    "publisher": "",
-    "difficulties": [
-      null
-    ],
-    "category": "Popular Styles"
-  },
-  {
     "composer": "Otis, Edith",
     "piece": "First Study Pieces for Cello",
     "publisher": "Schirmer",
@@ -4178,7 +4133,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Bach",
+    "composer": "Bach, J.S.",
     "piece": "Bach for the Cello, arr. by Krane",
     "publisher": "Schirmer",
     "difficulties": [
@@ -4190,7 +4145,7 @@
   {
     "composer": "Moffat",
     "piece": "Old Master Melodies for Young Cellists",
-    "publisher": "Players?",
+    "publisher": "Players",
     "difficulties": [
       1,
       2
@@ -4208,7 +4163,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "?",
+    "composer": "Unknown",
     "piece": "Repertoire Album (18th-20th C music)",
     "publisher": "Edito Budapest",
     "difficulties": [
@@ -4238,7 +4193,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki ed.",
     "piece": "Suzuki Cello School Cello Part Vol. 1 revised ed.",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4248,7 +4203,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki ed.",
     "piece": "Suzuki Cello School Piano Accomp. Vol. 1 revised",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4268,7 +4223,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki ed.",
     "piece": "Suzuki Cello School Cello Part Vol. 2 revised",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4278,7 +4233,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki ed.",
     "piece": "Suzuki Cello School Piano Accompaniment Vol. 2",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4348,7 +4303,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Cello Part Vol. 3",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4358,7 +4313,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Cello Part Vol. 3 revised",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4368,7 +4323,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Piano Accompaniment Vol. 3",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4378,7 +4333,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Cello Part Vol. 4",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4388,7 +4343,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Piano Accompaniment Vol. 4",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4398,7 +4353,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Cello Part Vol. 5",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4408,7 +4363,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Piano Accompaniment Vol. 5",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4418,7 +4373,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Cello Part Vol. 6",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4428,7 +4383,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Piano Accompaniment Vol. 6",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4438,7 +4393,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Cello Part Vol. 8",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4448,7 +4403,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Piano Accompaniment Vol. 8",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4458,7 +4413,7 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Cello Part Vol. 7",
     "publisher": "Summy Birchard",
     "difficulties": [
@@ -4467,18 +4422,9 @@
     "category": "Cello and Piano Collections"
   },
   {
-    "composer": "Suzuki",
+    "composer": "Suzuki .ed",
     "piece": "Suzuki Cello School Piano Accompaniment Vol. 7",
     "publisher": "Summy Birchard",
-    "difficulties": [
-      9
-    ],
-    "category": "Cello and Piano Collections"
-  },
-  {
-    "composer": "",
-    "piece": "",
-    "publisher": "",
     "difficulties": [
       9
     ],
