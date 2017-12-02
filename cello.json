@@ -1,804 +1,525 @@
 [
   {
-    "composer": "Beethoven",
-    "piece": "Sonatina in G major",
+    "composer": "Applebaum",
+    "piece": "String Builder",
     "publisher": "Belwin",
     "difficulties": [
       1,
-      2,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Applebaum",
+    "piece": "Applebaum String Method, vol. 1",
+    "publisher": "Belwin",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Deak",
+    "piece": "",
+    "publisher": "Modern Method vol. 1",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Epperson",
+    "piece": "A Manual of Essential Techniques",
+    "publisher": "Sam Fox",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Grant",
+    "piece": "Intermediate Solos in the Positions",
+    "publisher": "",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Herfurth",
+    "piece": "A Tune a Day vol1",
+    "publisher": "Boston",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Herfurth",
+    "piece": "A Tune a Day vol2",
+    "publisher": "Boston",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Marcelli",
+    "piece": "Carl Fischer Basic Method, Book 1: 8",
+    "publisher": "Fischer",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Matesky-Womack",
+    "piece": "Learn to Play a String Instrument vol. 1,2",
+    "publisher": "Alfred",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Matz, Rudolph",
+    "piece": "The Complete Cellist, Vol. 1,2",
+    "publisher": "Tetra Music",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Rolland(& Rowell)",
+    "piece": "Prelude to String Playing",
+    "publisher": "Boosey",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Young, Phyllis",
+    "piece": "Playing the String Game",
+    "publisher": "U. of Texas, Austin",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Werner, Joseph",
+    "piece": "Practical Method for Cello, Op. 12",
+    "publisher": "Fischer",
+    "difficulties": [
+      1,
+      2
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Applebaum",
+    "piece": "Orchestral Bowing Etudes",
+    "publisher": "Belwin",
+    "difficulties": [
       3,
       4
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Breval",
-    "piece": "Sonata in C Major",
-    "publisher": "{Suzuki vol4}",
+    "composer": "Sevcik",
+    "piece": "40 Variations, Op. 3 arr. by Feuillard",
+    "publisher": "Bosworth",
     "difficulties": [
-      5,
-      6
+      3,
+      4
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Hajdu",
-    "piece": "Sonatina",
-    "publisher": "Musica",
-    "difficulties": [
-      5,
-      6
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Marcello",
-    "piece": "Sonata in G Major and C major",
-    "publisher": "International",
-    "difficulties": [
-      5,
-      6
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Telemann",
-    "piece": "Sonata in D major",
-    "publisher": "International",
-    "difficulties": [
-      5,
-      6
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Torelli, Giuseppe",
-    "piece": "Sonata in G",
-    "publisher": "Barenreiter",
-    "difficulties": [
-      5,
-      6
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Vivaldi",
-    "piece": "Six Sonatas",
-    "publisher": "Schirmer",
-    "difficulties": [
-      5,
-      6
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Vivaldi",
-    "piece": "Sonata in E minor",
-    "publisher": "{Suzuki vol5}",
-    "difficulties": [
-      5,
-      6
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Vivaldi",
-    "piece": "Sonata in A minor",
-    "publisher": "(see Six Sonatas)",
-    "difficulties": [
-      5,
-      6
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Corelli",
-    "piece": "Sonata in D minor",
-    "publisher": "International",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Eccles",
-    "piece": "Sonata in G minor",
-    "publisher": "",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Mendelssohn",
-    "piece": "Sonata in Bb, Op. 45",
-    "publisher": "Peters",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Mozart",
-    "piece": "Sonatina in A major",
-    "publisher": "Elkan-V",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Mozart",
-    "piece": "Sonata in Bb",
-    "publisher": "International",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Romberg",
-    "piece": "Sonata in E minor, Op. 38, No. 1",
-    "publisher": "International",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Romberg",
-    "piece": "Sonata in C major, Op. 43, No. 2",
-    "publisher": "International",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Sammartini",
-    "piece": "Sonata in G major",
-    "publisher": "{Suzuki vol. 8}",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Webern",
-    "piece": "Three Little Pieces, Op. 11",
-    "publisher": "Universal",
-    "difficulties": [
-      7,
-      8
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Bach, J.S.",
-    "piece": "Sonata in G major (originally for viola da gamba)",
-    "publisher": "Breitkopf",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "12 Variations on the theme from \"Judas Maccabius\"",
-    "publisher": "Henle",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "12 Variations on a theme \"Ein Madchen oder Weibchen\"",
-    "publisher": "(Henle)",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "7 Variations on a Theme \"Bei Mannern\"",
-    "publisher": "(Henle)",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "Sonata No. 1 in F major, Op. 5",
-    "publisher": "Henle",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Henle",
-    "piece": "Schirmer",
-    "publisher": "Dover (score of all Beet. for cello and piano)",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "Sonatina in D minor",
-    "publisher": "Schirmer",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Brahms",
-    "piece": "Sonata in E minor",
-    "publisher": "Henle",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Bresgen, Cesar",
-    "piece": "Two Sonatas",
-    "publisher": "Peters",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Boccherini",
-    "piece": "Rondo in C major",
-    "publisher": "International",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Buononcini, Giova",
-    "piece": "Sonata",
-    "publisher": "Kalmus",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Diabelli, Anton",
-    "piece": "Sonatina in A minor",
-    "publisher": "HUG",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Faure",
-    "piece": "Sonata Op. 117",
-    "publisher": "Durand",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "de Fesch",
-    "piece": "Sonata in A minor, G minor, G major",
-    "publisher": "Peters",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "d'Hervelois",
-    "piece": "Suite in A, No.1",
-    "publisher": "Leeds",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Kodaly",
-    "piece": "Sonatina",
-    "publisher": "EBM",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Marcello",
-    "piece": "Sonata in F major",
-    "publisher": "Peters",
-    "difficulties": [
-      9
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Bach, J.S.",
-    "piece": "Sonata in D major (originally for viola da gamba)",
-    "publisher": "(see Sonata in G)",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "Sonata No. 2 in G minor, Op. 5",
-    "publisher": "(see Sonata No. 1)",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "Sonata No. 4 in C major, Op. 102#1",
-    "publisher": "(see Sonata No. 1)",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Blainville",
-    "piece": "Sonate Ancienne in D minor, Op. 38",
-    "publisher": "Augener",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Boccherini",
-    "piece": "Sonata in G major",
-    "publisher": "",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Boccherini",
-    "piece": "Sonatas No. 1-5",
-    "publisher": "(see Sonata in A)",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Breval",
-    "piece": "Sonata in G",
-    "publisher": "International",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Corrette",
-    "piece": "Sonata in D",
-    "publisher": "Delrieu",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Creston, Paul",
-    "piece": "Suite",
-    "publisher": "Schirmer",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Dohnanyi",
-    "piece": "Sonata in Bb major, Op. 8",
-    "publisher": "Schott",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Francouer",
-    "piece": "Sonata",
-    "publisher": "Schott",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Grieg",
-    "piece": "Sonata in A minor, Op. 36",
-    "publisher": "",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Handel",
-    "piece": "Sonata in C major",
-    "publisher": "International",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Hindemith",
-    "piece": "Sonata Op. 11, No. 3",
-    "publisher": "Leeds",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Kodaly",
-    "piece": "Sonata Op. 4",
-    "publisher": "Universal",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Malipiero",
-    "piece": "Sonatina",
-    "publisher": "",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Marcello",
-    "piece": "Sonata in D",
-    "publisher": "Leeds",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Mendelssohn",
-    "piece": "Sonata in D major, Op. 58",
-    "publisher": "(see Sonata in Bb)",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Pergolesi",
-    "piece": "Sinfonia in F",
-    "publisher": "Leeds",
-    "difficulties": [
-      10
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Bach, J.S.",
-    "piece": "Sonata in G minor (originally for viola da gamba)",
-    "publisher": "(see Sonata in G)",
-    "difficulties": [
-      11
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Barber",
-    "piece": "Sonata, Op. 6",
-    "publisher": "Schirmer",
-    "difficulties": [
-      11
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "Sonata No. 3 in A major, Op. 69",
-    "publisher": "(see Sonata No. 1)",
-    "difficulties": [
-      11
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Beethoven",
-    "piece": "Sonata No. 5 in D major, Op. 102#2",
-    "publisher": "(see Sonata No. 1)",
-    "difficulties": [
-      11
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Britten",
-    "piece": "Sonata in C major, Op. 65",
+    "composer": "Friss",
+    "piece": "Cello School, Book 2",
     "publisher": "Boosey",
     "difficulties": [
-      11
+      3,
+      4
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Brown",
-    "piece": "Music for Cello and Piano (1955)",
-    "publisher": "AMP",
+    "composer": "Lee",
+    "piece": "Forty Easy Exercises, Op. 70",
+    "publisher": "Leeds",
     "difficulties": [
-      11
+      3,
+      4
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Boccherini",
-    "piece": "Sonata in A major",
-    "publisher": "G. Ricordi",
+    "composer": "Merk",
+    "piece": "20 Etudes, Op. 11",
+    "publisher": "Schirmer",
     "difficulties": [
-      11
+      3,
+      4
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Chopin",
-    "piece": "Sonata in G minor, Op. 65",
+    "composer": "Piatti",
+    "piece": "Cello Method, book 1",
+    "publisher": "Augener",
+    "difficulties": [
+      3,
+      4
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Such",
+    "piece": "New School of Cello Studies, Book 1",
+    "publisher": "Augener",
+    "difficulties": [
+      3,
+      4
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Benoy & Burrows",
+    "piece": "The First Year Violoncello Method",
+    "publisher": "Novello",
+    "difficulties": [
+      3,
+      4
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Feuillard",
+    "piece": "Methode for the Young Cellist: 60 Etudes (pg. 17-)",
+    "publisher": "Ed. Delrieu",
+    "difficulties": [
+      3,
+      4
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Feuillard",
+    "piece": "The Young Cellist Collection of Classics 8vols.: 1B",
+    "publisher": "Delrieu",
+    "difficulties": [
+      3,
+      4
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Grant, Francis",
+    "piece": "Beginner's Guide to the Cello, vol.1",
+    "publisher": "Ludwig",
+    "difficulties": [
+      3,
+      4
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Potter, Louis, Jr.",
+    "piece": "The Art of Cello Playing",
+    "publisher": "Summy-Birchard",
+    "difficulties": [
+      3,
+      4
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Duport",
+    "piece": "21 Etudes, vol. 1 & 2",
+    "publisher": "Schirmer",
+    "difficulties": [
+      5,
+      6
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Dotzauer",
+    "piece": "113 Exercises, Book 1 and 2",
     "publisher": "Peters",
     "difficulties": [
-      11
+      5,
+      6
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Debussy",
-    "piece": "Sonata in D minor",
-    "publisher": "Durand",
+    "composer": "Grant, Francis",
+    "piece": "Fundamentals of Violoncello Technique, in 3 vols.",
+    "publisher": "",
     "difficulties": [
-      11
+      5,
+      6
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Faure",
-    "piece": "Sonata Op. 109",
-    "publisher": "Durand",
+    "composer": "Matz, Rudolf",
+    "piece": "25 Studies",
+    "publisher": "Dominis",
     "difficulties": [
-      11
+      5,
+      6
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Lee",
+    "piece": "Forty Melodious & Progressive Etudes, Op.31, Book 1",
+    "publisher": "Schirmer",
+    "difficulties": [
+      5,
+      6
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Piatti",
+    "piece": "Cello Method, book 2",
+    "publisher": "Augener",
+    "difficulties": [
+      5,
+      6
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Schroeder, Alwin",
+    "piece": "170 Foundation Studies, vol. 1",
+    "publisher": "Fischer",
+    "difficulties": [
+      5,
+      6
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Such",
+    "piece": "New School of Cello Studies, Book 2: starting at page 10",
+    "publisher": "Augener",
+    "difficulties": [
+      5,
+      6
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Cossman",
+    "piece": "Studies for Development of Agility of Fingers",
+    "publisher": "International",
+    "difficulties": [
+      7,
+      8
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
     "composer": "Kabalevsky",
-    "piece": "Sonata, Op. 71",
+    "piece": "Major-Minor Etudes, Op. 67",
     "publisher": "Kalmus",
     "difficulties": [
-      11
+      7,
+      8
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Muczynski, Robert",
-    "piece": "Sonata, Op. 25",
-    "publisher": "Schirmer",
-    "difficulties": [
-      11
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Prokofiev",
-    "piece": "Sonata, Op. 119",
+    "composer": "Merk",
+    "piece": "Twenty Studies, Op. 11",
     "publisher": "International",
     "difficulties": [
-      11
+      7,
+      8
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Rachmaninoff",
-    "piece": "Sonata in G minor, Op. 19",
+    "composer": "Popper",
+    "piece": "Preparatory Study, Op. 76 (ten etudes)",
     "publisher": "International",
     "difficulties": [
-      11
+      7,
+      8
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Shostakovich",
-    "piece": "Sonata, Op. 40",
+    "composer": "Schroeder, Alwin",
+    "piece": "170 Foundation Studies, vol. 2",
+    "publisher": "(see above)",
+    "difficulties": [
+      7,
+      8
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Benoy & Sutton",
+    "piece": "Introduction to Thumb Position",
+    "publisher": "Oxford",
+    "difficulties": [
+      9
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Cossman",
+    "piece": "Concert Studies, Op. 10: 1,8...",
     "publisher": "International",
     "difficulties": [
-      11
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Strauss",
-    "piece": "Sonata in F major, Op. 6",
-    "publisher": "Fischer",
+    "composer": "Feuillard",
+    "piece": "Daily Exercises",
+    "publisher": "Schott",
     "difficulties": [
-      11
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Valentini",
-    "piece": "Sonata in E major",
-    "publisher": "International",
-    "difficulties": [
-      11
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Bacon, Ernst",
-    "piece": "Sonata",
+    "composer": "Franchomme",
+    "piece": "Studies, Op. 35",
     "publisher": "Peters",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Baker, David",
-    "piece": "Sonata",
-    "publisher": "AMP",
+    "composer": "Matz, Rudolf",
+    "piece": "12 Etudes: Intro. to Thumb Position",
+    "publisher": "Dominis",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Brahms",
-    "piece": "Sonata in F major, Op. 99",
-    "publisher": "Henle",
+    "composer": "Matz, Rudolf",
+    "piece": "24 Short Etudes: Relating neck positions to thumb position",
+    "publisher": "Dominis",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Carter",
-    "piece": "Sonata (1948)",
-    "publisher": "AMP",
+    "composer": "Piatti",
+    "piece": "12 Caprices, Op. 25",
+    "publisher": "Ricordi",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Franck",
-    "piece": "Sonata in A major",
+    "composer": "Popper",
+    "piece": "High School of Cello Playing, Op. 73",
     "publisher": "International",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Heiden, Bernhard",
-    "piece": "Sonata",
-    "publisher": "Peer",
+    "composer": "Schroeder, Alwin",
+    "piece": "170 Foundation Studies, vol. 3",
+    "publisher": "Fischer",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Hovhaness",
-    "piece": "Sonata",
-    "publisher": "Peer",
+    "composer": "Schroeder, Karl",
+    "piece": "Violoncello Method [Ambrosio], Vol 3 (duets in thumb pos.)",
+    "publisher": "Fischer",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Kurka",
-    "piece": "Sonatina, Op. 21",
-    "publisher": "",
-    "difficulties": [
-      12
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Locatelli",
-    "piece": "Sonata in D major",
-    "publisher": "International",
-    "difficulties": [
-      12
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Martinu",
-    "piece": "Sonata No. 2",
-    "publisher": "AMP",
-    "difficulties": [
-      12
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Persichetti",
-    "piece": "Sonata",
-    "publisher": "Elkan-V",
-    "difficulties": [
-      12
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Schubert",
-    "piece": "Sonata in A minor, \"Arpeggione\"",
-    "publisher": "International",
-    "difficulties": [
-      12
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Shifrin, Seymour",
-    "piece": "Sonata",
-    "publisher": "APNM",
-    "difficulties": [
-      12
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Stravinsky",
-    "piece": "Suite Italienne",
-    "publisher": "Boosey",
-    "difficulties": [
-      12
-    ],
-    "category": "Methods/Studies/Scale books"
-  },
-  {
-    "composer": "Thomson, Virgil",
-    "piece": "Four Partraits",
+    "composer": "Schulz, Leo",
+    "piece": "Technical Studies; with 26 studies",
     "publisher": "Schirmer",
     "difficulties": [
-      12
+      9
     ],
     "category": "Methods/Studies/Scale books"
   },
   {
-    "composer": "Wernick, Richard",
-    "piece": "Sonata (Portraits of Antiquity)",
-    "publisher": "Presser",
+    "composer": "Dotzauer",
+    "piece": "113 Exercises, Book 3: 81,82,83...",
+    "publisher": "International",
     "difficulties": [
-      12
+      10
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Franchomme",
+    "piece": "Caprices, Op. 7",
+    "publisher": "International",
+    "difficulties": [
+      10
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Grutzmacher",
+    "piece": "Technology of Cello Playing, Vol 1&2(Bk.1: # 5,10,11)",
+    "publisher": "International",
+    "difficulties": [
+      10
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Magg, Fritz",
+    "piece": "Cello Exercises",
+    "publisher": "Boelke",
+    "difficulties": [
+      10
+    ],
+    "category": "Methods/Studies/Scale books"
+  },
+  {
+    "composer": "Yampolsky, Mark",
+    "piece": "Violoncello Techique ed. by Epperson",
+    "publisher": "MCA",
+    "difficulties": [
+      10
     ],
     "category": "Methods/Studies/Scale books"
   },
